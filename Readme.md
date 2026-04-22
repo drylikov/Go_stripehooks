@@ -1,4 +1,4 @@
-# Go-stripehooks.
+# Go stripehooks.
 
 Stripe Webhook manager with verification support.
 
